@@ -1,16 +1,15 @@
-### Hi there 👋
+# Live Long and Prosper
 
-<!--
-**Wika2021/Wika2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there!, Welcome to my profile! :D <br/>
+Feel free to check and grab my repos #STEALINGWITHPRIDE <br/>
+I am open for critique and any suggestion, you have freedom of speech here ;) <br/>
 
-Here are some ideas to get you started:
+## My Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a student :mortar_board:, programmer :computer:, and data analyst :bar_chart: <br/>
+I am curious by nature, and I love to learn and create things :gear: <br/>
+I am a lazy person, check my repo for some lazy tool to save time so you can have sleep :bed:
+
+## Life Progress
+
+Currently Learning: Data Scientist
